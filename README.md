@@ -10,4 +10,6 @@ I'm releasing it more like software because
 
 - The chapters will be published on [Spindle](https://www.spindle-asa.com/) when they are ready. Hosting them here as well will allow easy version control among different editors and commenters.
 
-## 
+## music
+
+What happens if I [link a music file](audio/music/malfamati.mp3)?
