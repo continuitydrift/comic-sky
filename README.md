@@ -1,5 +1,9 @@
 # Comic Sky
 
+Comic Sky is a serialized, speculative novel with an open call for collaboration.
+
+## method
+
 This is more like a game than a novel, designed to have elements of both.
 
 Anyone can play any of the characters, and by "play" I mean influence the story of. Readers or listeners can also suggest changes regarding theme, setting, plot, or language.
