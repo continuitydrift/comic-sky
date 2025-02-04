@@ -39,6 +39,25 @@ I'm releasing it more like software because
 What happens if I [link a music file](audio/music/malfamati.mp3)?
 -->
 
-## chapters
+## chapters/outline
+
 - [Prolugue: Harlequin Torn](0.md)
-  []
+	- POV: Lucrezia
+	- Harlequin laying on bed
+- [1: Origins](1.md)
+	-POV: Spavento
+	- Description of villa
+	- Spavento's backstory
+- [2: Mask of the Archbishop](2.md)
+	- First meeting, they give Pandolfo fake papers
+	- Spanish Prisoners
+	- asks to see the cellars
+- [3: Grapes](3.md)
+	-POV: Spavento
+	-explore the cellars
+	-Spavento steals the gun
+- [4: Mystery of Pandolfo](4.md)
+	- burying fake wine
+	- Pandolfo's backstory
+	- Turtle
+	- most basic story
