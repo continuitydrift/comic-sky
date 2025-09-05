@@ -2,6 +2,15 @@
 
 Comic Sky is a serialized, speculative novel with an open call for collaboration.
 
+## human algorithm
+
+-set a goal: up to 6.md ready to publish/distribute
+-set a time frame
+
+This is also a template.
+
+
+
 ## method
 
 This is more like a game than a novel, designed to have elements of both.
